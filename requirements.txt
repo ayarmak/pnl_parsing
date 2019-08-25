@@ -26,7 +26,6 @@ ipython==7.5.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jedi==0.13.2
-Jinja2==2.10
 joblib==0.13.2
 jsonschema==3.0.0a3
 jupyter==1.0.0
@@ -102,6 +101,5 @@ tweepy==3.6.0
 urllib3==1.23
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.15.2
 widgetsnbextension==3.4.2
 wptools==0.4.17
